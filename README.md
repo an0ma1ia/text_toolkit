@@ -1,3 +1,3 @@
 # text_toolkit
 
-The project helps improve the understanding of strings and text editing functions in C/C++.
+Developed an interactive C++ program designed to strengthen users' understanding of string manipulation through practical exercises, helping them apply programming concepts and develop problem-solving skills
